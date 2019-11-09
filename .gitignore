@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+.venv
+private-key.json
+.vscode
+Pipfile
+__pycache__/
+out
+target
+venv*
+.DS_Store
+.idea
+src/.DS_Store
